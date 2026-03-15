@@ -315,4 +315,4 @@ By completing this project, you will understand:
 # 👨‍💻 Author
 
 Harsh Chauhan  
-AI & Data Science Enthusiast
+AI & Data Science
